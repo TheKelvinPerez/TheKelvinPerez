@@ -1,10 +1,6 @@
 # Kelvin Perez
 ### 🧑‍💻UI/UX & Full-Stack Software Engineer
 
-
-⤷ ⭐️Polymath focused on Business and Marketing
-⤷ 🧘‍♂️Lead Evangelist of Breathing
-
  <a aligh="left" href="https://kelvinperez.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:thekelvinperez@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/aquawooolf" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/realkelvinperez" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.twitch.tv/aquawooolf" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitch.svg" alt="Twitch" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/aquawooolf" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a> <a aligh="left" href="https://discord.com/user/AquaWolf#1502" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/discord.svg" alt="Discord" width="22" height="22" /></a>  
 
 ⚐ Based in Global
