@@ -1,4 +1,4 @@
-# Kelvin Perez
+# Kelvin Perez aka (TheKelvinPerez)
 
 ## Senior WordPress Developer & Full-Stack Engineer
 
@@ -265,4 +265,3 @@ I'm always interested in connecting with fellow developers, discussing challengi
 ---
 
 _Last updated: November 2025_
-# TheKelvinPerez
