@@ -1,8 +1,8 @@
 # Kelvin Perez
 
-**Senior Developer → Transitioning into DevOps & SRE**
+**Builder → AI Agents, Open Source, AI-First Businesses**
 
-Building reliable systems at scale. 9+ years of full-stack experience, now focused on infrastructure, Kubernetes, and site reliability engineering.
+Building the future with AI. 9+ years of engineering experience, now focused on AI agents, open source infrastructure, and AI-native products.
 
 [![Email](https://img.shields.io/badge/Email-thekelvinperez%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:thekelvinperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thekelvinperez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/TheKelvinPerez)
@@ -10,9 +10,9 @@ Building reliable systems at scale. 9+ years of full-stack experience, now focus
 
 ## 🎯 Current Focus
 
-Actively transitioning into **DevOps & SRE** through hands-on practice in my homelab. Learning Kubernetes, Docker, CI/CD pipelines, and cloud platforms (AWS/GCP). Building on a foundation of WordPress development, full-stack engineering, and self-hosted infrastructure.
+Building **AI agents, open source tools, and AI-first businesses**. Deeply invested in AI research, agentic systems, and infrastructure for the AI era. Combining entrepreneurial background with technical expertise to ship products that matter.
 
-**2026 Goal:** Full-time DevOps/SRE role
+**2026:** AI-native products, open source contributions, agentic AI research
 
 ## 💡 Key Achievements
 
@@ -24,19 +24,23 @@ Actively transitioning into **DevOps & SRE** through hands-on practice in my hom
 
 ## 🛠️ Tech Stack
 
-### Core
+### AI & ML
+- **LLMs:** OpenAI, Anthropic, open-source models
+- **Agentic Systems:** LangChain, AutoGPT, custom agent frameworks
+- **AI Infrastructure:** Vector databases (Pinecone, Weaviate), RAG systems, embeddings
+- **AI/ML:** PyTorch, TensorFlow, fine-tuning, prompt engineering
+
+### Core Engineering
 - **Languages:** Typescript, Python, PHP, JavaScript
-- **WordPress:** Custom themes/plugins, ACF Pro
 - **Frontend:** React 19, Next.js 15, Tailwind CSS, GSAP, Vite
 - **Backend:** FASTAPI, SQL, PostgreSQL, REST APIs, Websockets
+- **WordPress:** Custom themes/plugins, ACF Pro
 
-### DevOps Learning
-- **Infrastructure:** Docker, Kubernetes (learning), Terraform
-- **Platforms:** AWS, Caddy, Nginx
-- **Tools:** Git, CI/CD, Monitoring, Linux (NeoVim, Tmux, terminal workflows)
-
-### AI & Automation
-- LLM integration, RAG systems, AI agents, Vector databases
+### Infrastructure & DevOps
+- **Containerization:** Docker, Kubernetes
+- **IaC:** Terraform, Ansible
+- **Platforms:** AWS, GCP, bare-metal homelab
+- **Tools:** Git, CI/CD, Monitoring (Prometheus), Linux (NeoVim, Tmux)
 
 ## 🔥 Featured Projects
 
@@ -61,7 +65,7 @@ Next.js 15 platform showcasing full-stack expertise.
 - PHP 7+ and modern development workflows
 
 ### 2019: ViViFi Agency Founded
-- high-converting WordPress websites (100% satisfaction)
+- High-converting WordPress websites (100% satisfaction)
 - 40% repeat business rate
 
 ### 2020: Chrome Extension Startup
@@ -75,18 +79,19 @@ Next.js 15 platform showcasing full-stack expertise.
 ### 2022-2023: World Travel + AI Discovery
 - Traveled: Peru, Thailand, Cambodia, Laos, India
 - Built AI products, learned LLMs and RAG systems
-- Realized: stop chasing hype, follow what resonates
+- Realized: AI is the future, invest time where it matters
 
-### 2024-2025: Infrastructure Focus
-- Self-hosted family HVAC business WordPress site
-- Built complete DevOps infrastructure (Docker, Caddy, server management)
-- Discovered passion: systems thinking, infrastructure, DevOps
-- Joined KubeCraft community, actively learning Kubernetes
-- Systemized Note taking with Zettelkasten
+### 2024-2025: Infrastructure + AI Foundation
+- Self-hosted family HVAC business (complete DevOps stack)
+- Built infrastructure for AI/ML workloads in homelab
+- Deep dive into agent frameworks, vector databases, RAG systems
+- Systemized knowledge with Zettelkasten
 
-### 2026: DevOps Transition
-- Goal: Full-time DevOps/SRE role
-- Daily hands-on practice in homelab environment
+### 2026: AI-Native Builder
+- Building AI agents and agentic systems
+- Open source contributions to AI tooling
+- AI-first products and businesses
+- Research at the intersection of AI and human productivity
 </details>
 
 ---
@@ -94,21 +99,23 @@ Next.js 15 platform showcasing full-stack expertise.
 <details>
 <summary><b>📚 Learning Resources</b></summary>
 
-### DevOps & SRE
-- The DevOps Handbook
-- Site Reliability Engineering (Google SRE books)
-- The Phoenix Project
-- Team Topologies
-- How Linux Works
+### AI & ML
+- Building AI Applications (various)
+- Hands-On Machine Learning (Aurélien Géron)
+- Deep Learning (Goodfellow, Bengio, Courville)
+- Research papers on agents, RAG, and LLMs
 
-### Technical
-- Clean Code (Robert C. Martin)
+### Infrastructure & Systems
 - Designing Data-Intensive Applications (Martin Kleppmann)
+- Site Reliability Engineering (Google SRE books)
+- How Linux Works
+- Team Topologies
 
 ### Business & Mindset
 - Zero to One (Peter Thiel)
 - $100M Offers (Alex Hormozi)
 - Atomic Habits (James Clear)
+- The Mom Test
 </details>
 
 ---
@@ -116,20 +123,20 @@ Next.js 15 platform showcasing full-stack expertise.
 <details>
 <summary><b>🤝 FAQ</b></summary>
 
-**What type of role are you looking for?**
-DevOps, SRE, or platform engineering roles focused on infrastructure automation, site reliability, and scalable distributed systems.
+**What are you working on?**
+AI agents, open source AI tooling, and AI-first businesses. I'm building practical AI systems that solve real problems.
 
 **Are you available for hire?**
-Yes, seeking remote opportunities. Open to time zone differences.
+Open to interesting opportunities in AI/ML, product engineering, and founding teams. Remote-friendly.
 
-**What's your approach to learning DevOps?**
-Daily hands-on practice in my homelab (bare-metal ThinkPad sandbox). Building, breaking, and iterating to develop practical understanding through real failures.
+**What's your approach to AI?**
+Pragmatic and hands-on. I ship products, not just research papers. Focus on AI that provides tangible value—agents that automate workflows, RAG systems that surface knowledge, and tools that augment human capability.
 
 **What unique perspective do you bring?**
-Entrepreneurial background ($20K MRR product, $28M+ NFT sales) → understand business value of uptime and performance. Full-stack experience → understand application needs from infrastructure perspective.
+Entrepreneurial background ($20K MRR product, $28M+ NFT sales) + 9 years engineering = I build AI products that actually work and can scale. Full-stack experience means I can ship end-to-end AI applications.
 
-**What's your experience with DevOps tools?**
-Git, CI/CD, Docker from development background. Actively learning Kubernetes, Terraform, Prometheus monitoring, and SRE practices through daily homelab practice.
+**What's your experience with AI/ML?**
+LLMs since 2022, built RAG systems, worked with vector databases, implemented agentic workflows. Currently diving deeper into agent architectures, fine-tuning, and open-source AI infrastructure.
 </details>
 
 ---
@@ -145,4 +152,4 @@ Git, CI/CD, Docker from development background. Actively learning Kubernetes, Te
 
 ---
 
-*Last updated: December 2025*
+*Last updated: January 2026*
