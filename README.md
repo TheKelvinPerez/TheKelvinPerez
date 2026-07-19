@@ -1,3 +1,5 @@
+![Kelvin Perez, Full Stack Laravel Developer](assets/linkedin-x-github-banner.png)
+
 # Kelvin Perez
 
 I'm a Laravel product engineer. I build CRMs, client portals, analytics tools, and operations software for service businesses.
