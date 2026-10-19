@@ -1,44 +1,55 @@
-![Kelvin Perez, Full Stack Laravel Developer](assets/linkedin-x-github-banner.png)
+![Kelvin Perez, Email Developer and Marketing Technology Specialist](assets/github-email-martech-banner.png)
 
 # Kelvin Perez
 
-I'm a Laravel product engineer. I build CRMs, client portals, analytics tools, and operations software for service businesses.
+I'm a web developer specializing in HTML email development, responsive digital experiences, CRM workflows, and marketing automation.
 
 [![Email](https://img.shields.io/badge/Email-thekelvinperez%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:thekelvinperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thekelvinperez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/TheKelvinPerez)
 [![Twitter](https://img.shields.io/badge/Twitter-@TheKelvinPerez-blue?style=flat-square&logo=twitter)](https://twitter.com/TheKelvinPerez)
 
-## What I Build
+## Current Direction
 
-I like building practical Laravel apps that help people run the business in one place: sales pipeline, client work, forms, calls, inboxes, reviews, dashboards, and reporting.
+I'm building a focused portfolio of responsive HTML emails, including promotional campaigns, newsletters, and transactional messages. My work emphasizes table based layouts, inline CSS, fluid and hybrid responsive techniques, email client compatibility, accessibility, and quality assurance.
 
-My main stack is Laravel, Inertia, React, TypeScript, Tailwind, Postgres, queues, jobs, policies, webhooks, APIs, Stripe, Twilio, Cal.com, Docker, and Caddy.
+Alongside email production, I build marketing technology that connects lead capture, customer data, CRM workflows, APIs, webhooks, scheduled processes, analytics, and automated follow up.
 
-## Main Project
+I'm currently expanding my working knowledge of HubSpot, Klaviyo, customer journeys, lifecycle messaging, and campaign operations.
 
-The Light Code Labs dashboard is the main example of the kind of software I build. It's a private Laravel platform for sales, delivery, client operations, analytics, and service workflows.
+## Marketing Technology Work
 
-It includes:
+The Light Code Labs platform is the clearest example of how I connect development with marketing and sales operations. It brings lead generation, enrichment, qualification, CRM style workflows, website previews, chatbot knowledge retrieval, analytics, and follow up into one system.
 
-1. Lead CRM with pipeline views, call logging, CSV import, assignments, fit scoring, lead magnets, and marketing audits.
-2. Calm PM delivery workflows with workspaces, cards, subtasks, client requests, onboarding, readiness gates, and escalation rules.
-3. Client portal with inbox, calls, customers, forms, reviews, analytics, chatbot conversations, and role scoped access.
-4. Analytics with tracking snippets, sessions, replays, funnels, heatmaps, monthly recaps, and PDF reports.
-5. Stripe, Twilio, Cal.com, mobile APIs, web push, background jobs, and self hosted deployment on Hetzner.
+My contribution includes:
 
-## Other Work
+1. Lead capture, enrichment, qualification, and CRM workflows.
+2. n8n automations, API and webhook integrations, queues, scheduled jobs, and background processing.
+3. Retrieval based chatbot functionality and structured business knowledge sources.
+4. First party analytics, funnels, heatmaps, sessions, reporting, and conversion insights.
+5. Responsive interfaces for marketing, sales, onboarding, and client operations.
 
-I've also built and shipped:
+The supporting stack includes Laravel, React, TypeScript, PostgreSQL, WordPress, PHP, n8n, Docker, and analytics tooling.
 
-1. A PHP and WordPress platform for SunnySide247 AC with 487+ generated local service pages and 100/100 PageSpeed scores.
-2. A Chrome extension business that reached $20K MRR.
-3. Custom WordPress themes, plugins, automation tools, and internal systems across 9+ years of engineering work.
+## Web Development Foundation
+
+My email and MarTech direction is backed by 10 years of web development experience. Selected work includes:
+
+1. A custom WordPress platform for SunnySide 24/7 AC supporting 487+ localized service pages through reusable content models and technical SEO.
+2. Responsive WordPress, Shopify, and WooCommerce experiences for agencies and businesses.
+3. Custom themes, plugins, landing pages, ecommerce improvements, analytics integrations, and workflow automation.
+4. Production systems using PHP, JavaScript, React, TypeScript, APIs, webhooks, databases, queues, and scheduled jobs.
+
+## Core Skills
+
+HTML email development, HTML5, CSS, responsive design, email quality assurance, WordPress, PHP, JavaScript, CRM workflows, marketing automation, workflow automation, n8n, APIs, webhooks, analytics, technical SEO, Shopify, and WooCommerce.
 
 ## How I Work
 
-I care about clean domain models, simple deployment, fast pages, useful tests, and software that is easy to explain after it ships.
+I care about clear requirements, reusable systems, responsive execution, careful testing, and work that supports measurable marketing outcomes.
 
-Good Laravel apps should make operations clearer, not heavier.
+Good marketing technology should make campaigns easier to produce, customer journeys easier to understand, and repetitive work easier to automate.
+
+I'm seeking remote full time opportunities in Email Development, Email Production, Marketing Technology, and Marketing Automation.
 
 ## Contact
 
