@@ -1,62 +1,35 @@
-![Kelvin Perez, Email Developer and Marketing Technology Specialist](assets/github-email-martech-banner.png)
-
 # Kelvin Perez
 
-I'm a web developer specializing in HTML email development, responsive digital experiences, CRM workflows, and marketing automation.
+**Full Stack Developer | PHP, Laravel & React | Marketing Technology & AI Automation**
 
-[![Email](https://img.shields.io/badge/Email-thekelvinperez%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:thekelvinperez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thekelvinperez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/TheKelvinPerez)
-[![Twitter](https://img.shields.io/badge/Twitter-@TheKelvinPerez-blue?style=flat-square&logo=twitter)](https://twitter.com/TheKelvinPerez)
+I build responsive websites, custom applications, API integrations, and connected business workflows. My 10 years of web development experience span agency delivery, WordPress, ecommerce, and full stack application development.
 
-## Current Direction
+## Applications and integrations
 
-I'm building a focused portfolio of responsive HTML emails, including promotional campaigns, newsletters, and transactional messages. My work emphasizes table based layouts, inline CSS, fluid and hybrid responsive techniques, email client compatibility, accessibility, and quality assurance.
+Through Light Code Labs, I built workflows connecting browser-based lead capture, enrichment, CRM operations, website previews, knowledge retrieval, and automated follow up. The platform brings together Laravel, React, TypeScript, PostgreSQL, APIs, webhooks, n8n, queues, scheduled jobs, and background processing.
 
-Alongside email production, I build marketing technology that connects lead capture, customer data, CRM workflows, APIs, webhooks, scheduled processes, analytics, and automated follow up.
+## Websites and ecommerce
 
-I'm currently expanding my working knowledge of HubSpot, Klaviyo, customer journeys, lifecycle messaging, and campaign operations.
+My professional work includes custom WordPress themes and plugins, reusable content models, responsive interfaces, landing pages, technical SEO, and Shopify and WooCommerce experiences. The SunnySide 24/7 AC platform supports 487+ localized service pages through reusable templates and structured content.
 
-## Marketing Technology Work
+## Marketing Technology & AI Automation
 
-The Light Code Labs platform is the clearest example of how I connect development with marketing and sales operations. It brings lead generation, enrichment, qualification, CRM style workflows, website previews, chatbot knowledge retrieval, analytics, and follow up into one system.
+I connect lead capture, CRM workflows, APIs, webhooks, and business processes through integrations and automation. My work includes retrieval-based chatbot functionality and structured business knowledge sources.
 
-My contribution includes:
+My email portfolio includes responsive promotional, newsletter, and transactional examples with inspectable source. I'm continuing to build direct experience with HubSpot, Klaviyo, and lifecycle implementation.
 
-1. Lead capture, enrichment, qualification, and CRM workflows.
-2. n8n automations, API and webhook integrations, queues, scheduled jobs, and background processing.
-3. Retrieval based chatbot functionality and structured business knowledge sources.
-4. First party analytics, funnels, heatmaps, sessions, reporting, and conversion insights.
-5. Responsive interfaces for marketing, sales, onboarding, and client operations.
+## Technical foundation
 
-The supporting stack includes Laravel, React, TypeScript, PostgreSQL, WordPress, PHP, n8n, Docker, and analytics tooling.
+PHP, Laravel, React, TypeScript, JavaScript, HTML, CSS, WordPress, MySQL, PostgreSQL, APIs, webhooks, n8n, Docker, Git, and automated testing with Pest, Jest, Mocha, and Chai.
 
-## Web Development Foundation
+## Opportunities
 
-My email and MarTech direction is backed by 10 years of web development experience. Selected work includes:
+Based in Iowa, United States, I'm open to fully remote roles across full stack development, PHP/Laravel, WordPress and marketing web development, frontend implementation, integrations, email development, and marketing technology.
 
-1. A custom WordPress platform for SunnySide 24/7 AC supporting 487+ localized service pages through reusable content models and technical SEO.
-2. Responsive WordPress, Shopify, and WooCommerce experiences for agencies and businesses.
-3. Custom themes, plugins, landing pages, ecommerce improvements, analytics integrations, and workflow automation.
-4. Production systems using PHP, JavaScript, React, TypeScript, APIs, webhooks, databases, queues, and scheduled jobs.
+I care about clear requirements, reusable systems, responsive execution, careful testing, and software that is straightforward to explain and maintain.
 
-## Core Skills
+## Explore my work
 
-HTML email development, HTML5, CSS, responsive design, email quality assurance, WordPress, PHP, JavaScript, CRM workflows, marketing automation, workflow automation, n8n, APIs, webhooks, analytics, technical SEO, Shopify, and WooCommerce.
-
-## How I Work
-
-I care about clear requirements, reusable systems, responsive execution, careful testing, and work that supports measurable marketing outcomes.
-
-Good marketing technology should make campaigns easier to produce, customer journeys easier to understand, and repetitive work easier to automate.
-
-I'm seeking remote full time opportunities in Email Development, Email Production, Marketing Technology, and Marketing Automation.
-
-## Contact
+[Portfolio](https://kelvinperez.com) · [LinkedIn](https://www.linkedin.com/in/thekelvinperez/) · [YouTube](https://www.youtube.com/@thekelvinperez) · [X](https://x.com/thekelvinperez)
 
 Email: [thekelvinperez@gmail.com](mailto:thekelvinperez@gmail.com)
-
-LinkedIn: [linkedin.com/in/TheKelvinPerez](https://linkedin.com/in/TheKelvinPerez)
-
-Twitter: [@TheKelvinPerez](https://twitter.com/TheKelvinPerez)
-
-Portfolio: [kelvinperez.com](https://kelvinperez.com)
