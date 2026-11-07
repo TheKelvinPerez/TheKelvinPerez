@@ -1,3 +1,5 @@
+![Kelvin Perez, Full Stack Developer, PHP, Laravel and React, Marketing Technology and AI Automation](assets/github-full-stack-banner.png)
+
 # Kelvin Perez
 
 **Full Stack Developer | PHP, Laravel & React | Marketing Technology & AI Automation**
