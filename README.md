@@ -4,7 +4,13 @@
 
 **Full Stack Developer | PHP, Laravel & React | Marketing Technology & AI Automation**
 
-I build responsive websites, custom applications, API integrations, and connected business workflows. My 10 years of web development experience span agency delivery, WordPress, ecommerce, and full stack application development.
+I build websites, applications, ecommerce experiences, and connected workflows with equal care for the interface and the engineering behind it. My 10 years of web development experience span agency delivery, WordPress, ecommerce, and full stack applications.
+
+## Form and function, together
+
+Good design is part of what makes software useful. I care about clear hierarchy, responsive layouts, helpful feedback, and interactions that feel considered, alongside reliable, maintainable systems. Design is part of what keeps me motivated to keep refining a product.
+
+My design toolkit includes Figma, Sketch, and Photoshop, supported by study of color theory, typography, and UI/UX fundamentals. I bring that grounding into the interfaces I build and the designs I implement.
 
 ## Applications and integrations
 
